@@ -1,0 +1,121 @@
+brand,model,trim,manufacture_year,condition,transmission,body_type,fuel_type,engine_capacity,mileage,price
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","155,000 km",8500000
+Honda,Fit,Gp 5 S Grade,2016,Used,Automatic,Hatchback,Hybrid,"1,500 cc","120,000 km",8635000
+Honda,Vezel,Vezel Z Grand,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","140,000 km",9150000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Petrol,"1,330 cc","140,000 km",6900000
+Honda,N-WGN,Custom Turbo,2017,Used,Automatic,Hatchback,Petrol,650 cc,"61,000 km",6700000
+Honda,Fit,Honda Fit GP1 2012,2012,Used,Automatic,Hatchback,Hybrid,"1,300 cc","128,000 km",6750000
+Honda,Fit,GP1,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","190,000 km",6450000
+Honda,Fit,GP 1,2011,Used,Automatic,Hatchback,Petrol,"1,300 cc","128,000 km",6200000
+Honda,Insight,Honda Insight 2009,2009,Used,Automatic,Hatchback,Hybrid,"1,300 cc","195,000 km",6800000
+Honda,Fit,GP5-L,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","108,200 km",7860000
+Honda,Fit,Fit GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","124,000 km",6450000
+Toyota,Vitz,2007,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","200,000 km",5375000
+Honda,Fit,GP5,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","145,000 km",7350000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","142,000 km",6890000
+Honda,Vezel,Z Grade,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","124,000 km",9150000
+Honda,Fit,,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","139,000 km",7400000
+Honda,Fit Shuttle,INTEL KEY CRUISE,2012,Used,Automatic,Hatchback,Hybrid,"1,330 cc","147,500 km",8375000
+Honda,Vezel,,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","172,000 km",9250000
+Honda,Fit,GP 1,2012,Used,Automatic,Hatchback,Hybrid,"1,330 cc","118,269 km",5989998
+Honda,N-WGN,Custom,2016,Used,Automatic,Hatchback,Petrol,650 cc,"81,239 km",6790000
+Honda,Fit,10th Annivesary,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","216,000 km",6750000
+Honda,Fit,S grade,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","90,000 km",7650000
+Honda,Fit,GP5 S Grade,2013,Used,Automatic,Hatchback,Petrol,"1,500 cc","162,500 km",7650000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","99,926 km",7275000
+Honda,Fit,Honda Fit GP5,2014,Used,Automatic,Hatchback,Petrol,"1,490 cc","163,757 km",8100000
+Honda,Fit,GP5,2015,Used,Automatic,Hatchback,Petrol,"1,500 cc","113,000 km",7800000
+Honda,Fit,GP1 NAVI PREMIUM,2013,Used,Automatic,Hatchback,Hybrid,"1,330 cc","155,000 km",6675000
+Honda,Fit,GP1 Navi Premium,2012,Used,Automatic,Hatchback,Petrol,"1,330 cc","120,000 km",6380000
+Honda,Fit,GP1 LOW MILEAGE,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","65,000 km",6850000
+Honda,Fit,GP5,2015,Used,Automatic,Hatchback,Hybrid,"1,490 cc","143,913 km",8150000
+Honda,Vezel,Z,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","270,000 km",8800000
+Honda,Fit,GP1,2012,Used,Automatic,Hatchback,Hybrid,"1,300 cc","134,200 km",6150000
+Honda,Fit,GP 1,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","85,000 km",6690000
+Honda,Fit,,2012,Used,Automatic,Hatchback,Hybrid,"1,300 cc","192,600 km",6325000
+Honda,N-WGN,custom,2023,Used,Automatic,Hatchback,Petrol,660 cc,"3,596 km",8250000
+Honda,Fit,,2014,Used,Automatic,Hatchback,Hybrid,"1,300 cc","160,000 km",7100000
+Honda,Fit,GP5 L,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","123,000 km",7900000
+Honda,Fit,GP1,2010,Used,Automatic,Hatchback,Hybrid,"1,300 cc","120,000 km",6500000
+Honda,Fit,Gp 5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","148,000 km",7500000
+Honda,Fit,Honda Fit gp5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","148,556 km",8500000
+Honda,Vezel,Orange Pack,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","180,000 km",8800000
+Honda,Vezel,RS,2017,Used,Automatic,SUV / 4x4,Hybrid,"1,500 cc","100,000 km",11500000
+Honda,Fit,S Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","139,000 km",8300000
+Honda,Fit,GP 1,2011,Used,Automatic,Hatchback,Hybrid,"1,330 cc","168,000 km",6350000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","64,000 km",6750000
+Honda,Fit,,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","132,000 km",8000000
+Toyota,Vitz,DBA KSP -130 VITZ,2018,Used,Automatic,Hatchback,Petrol,990 cc,"37,770 km",8650000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","120,000 km",6975000
+Honda,Fit,GP1,2011,Used,Automatic,Hatchback,Hybrid,"1,330 cc","140,000 km",6500000
+Honda,Fit,GP5 L Garde,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","80,190 km",8200000
+Honda,Fit,GP1,2012,Used,Automatic,Hatchback,Hybrid,"1,330 cc","182,000 km",5900000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,339 cc","132,000 km",6475000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","108,000 km",7500000
+Honda,Fit,,2013,Used,Automatic,Hatchback,Hybrid,"1,330 cc","200,000 km",6150000
+Honda,CRV,,2018,Used,Automatic,,Petrol,"1,500 cc","59,000 km",18750000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","163,000 km",7290000
+Honda,Fit,GP5,2013,Used,Automatic,Hatchback,Petrol,"1,499 cc","92,000 km",7490000
+Honda,N-Box,Custom Turbo,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"69,000 km",6690000
+Honda,Fit,GP5 L Grade,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","150,000 km",7600000
+Honda,Fit,GP1 Premium,2012,Used,Automatic,Hatchback,Hybrid,"1,330 cc","128,000 km",6000000
+Honda,Fit,GP5 S Grade,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","108,000 km",8200000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,339 cc","129,000 km",7525000
+Honda,Fit,GP1-,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","135,000 km",6750000
+Honda,Fit,Honda,2008,Used,Automatic,Hatchback,Petrol,"1,330 cc","159,000 km",5850000
+Honda,Fit,GP 5 RS,2015,Used,Automatic,Hatchback,Petrol,"1,500 cc","118,280 km",8250000
+Honda,Fit,Honda GP5,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","133,000 km",7400000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","105,736 km",7990000
+Honda,Fit,L Grade,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","145,000 km",7875000
+Honda,Vezel,Z,2015,Used,Automatic,Hatchback,Petrol,"1,500 cc","192,000 km",9650000
+Honda,Fit,GP5 (Pure Petrol),2014,Used,Automatic,Hatchback,Petrol,"1,300 cc","86,000 km",7000000
+Honda,Fit,GP1 / GE6,2010,Used,Automatic,Hatchback,Petrol,"1,300 cc","38,200 km",5950000
+Honda,S660,2015,2015,Used,Automatic,Convertible,Petrol,660 cc,"60,000 km",6600000
+Honda,N-Box,2017,2017,Used,Automatic,Hatchback,Petrol,660 cc,"67,000 km",6800000
+Honda,Fit,GP 1,2013,Used,Automatic,Hatchback,Petrol,"1,200 cc","98,000 km",6800000
+Honda,Fit,GE6,2008,Used,Automatic,Hatchback,Petrol,"1,300 cc","91,000 km",5650000
+Honda,Fit,2012,2012,Used,Automatic,Hatchback,Petrol,"1,330 cc","152,000 km",6849998
+Honda,Fit,GP1,2010,Used,Automatic,Hatchback,Petrol,"1,330 cc","140,211 km",5825000
+Honda,Fit,Honda Fit GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","194,000 km",8350000
+Honda,Insight,ZE2,2010,Used,Automatic,Hatchback,Petrol,"1,300 cc","198,000 km",7250000
+Honda,Fit,Fit,2012,Used,Automatic,Hatchback,Hybrid,"1,330 cc","130,000 km",6585000
+Honda,Fit,,2007,Used,Automatic,Hatchback,Petrol,"1,330 cc","211,250 km",4700000
+Honda,Fit,GP5 L Exclusive,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","145,000 km",7950000
+Honda,Fit,GP5 L Grade,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","95,000 km",7995000
+Honda,Fit,GP5 L Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","152,000 km",7150000
+Honda,Fit,2014,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","97,000 km",7800000
+Honda,Fit,L Grade,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","94,000 km",7900000
+Honda,Vezel,Honda,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","132,932 km",9850000
+Honda,Vezel,Orange package,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","158,000 km",8750000
+Honda,Fit,GP5,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","195,000 km",7850000
+Honda,Fit,Hybrid,2011,Used,Automatic,Hatchback,Hybrid,"1,339 cc","186,951 km",6400000
+Honda,Fit,S Grade,2015,Used,Automatic,Hatchback,Hybrid,"1,490 cc","140,000 km",7725000
+Honda,Fit,Honda Fit Gp 5,2014,Used,Automatic,Hatchback,Hybrid,"1,496 cc","103,199 km",7250000
+Honda,Insight,ZE3,2012,Used,Automatic,Hatchback,Petrol,"1,500 cc","136,000 km",8100000
+Honda,Fit,GE6,2010,Used,Automatic,Hatchback,Petrol,"1,330 cc","84,252 km",6590000
+Honda,Vezel,,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","125,000 km",9150000
+Honda,Fit,Fit Gp5,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","239,000 km",7400000
+Honda,Fit,GP1,2011,Used,Automatic,Hatchback,Petrol,"1,300 cc","173,000 km",6550000
+Honda,Fit,2011,2011,Used,Automatic,Hatchback,Petrol,"1,330 cc","128,000 km",5975000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","160,000 km",7250000
+Honda,Fit,GP5 L Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,496 cc","129,000 km",7150000
+Honda,Fit,GP5 L Grade,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","96,000 km",7995000
+Honda,Fit,2022,2022,Used,Automatic,Hatchback,Petrol,"1,300 cc","178,900 km",4500000
+Honda,Fit,,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","147,000 km",7590000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","122,000 km",7250000
+Honda,N-WGN,,2019,Used,Automatic,Hatchback,Petrol,660 cc,"41,789 km",6450000
+Honda,Fit,RS GP4,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","145,000 km",7250000
+Honda,Fit,,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","200,000 km",7500000
+Honda,Fit,GP 1,2013,Used,Automatic,Hatchback,Petrol,"1,330 cc","170,000 km",6490000
+Honda,Fit,GP1,2012,Used,Automatic,Hatchback,Hybrid,"1,300 cc","126,000 km",6525000
+Honda,Fit,GP5 RS,2016,Used,Automatic,Hatchback,Hybrid,"1,500 cc","135,000 km",8650000
+Honda,Fit,GP5,2010,Used,Automatic,Hatchback,Hybrid,"1,500 cc","141,026 km",8000000
+Honda,Vezel,,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","181,000 km",8650000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","109,000 km",7750000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","175,000 km",6875000
+Honda,Fit,GP 5,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","60,100 km",8200000
+Honda,Fit,,2013,Used,Automatic,Hatchback,Petrol,"1,300 cc","183,000 km",6500000
+Honda,Fit,GP5,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","110,000 km",7250000
+Honda,Fit,GP5,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","172,108 km",7490000
+Toyota,Harrier,HYBRID 2015,2015,Reconditioned,Automatic,Hatchback,Hybrid,250 cc,"115,000 km",1650000
+Honda,Fit,GP5 L Garde,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","99,350 km",7800000

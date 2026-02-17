@@ -1,0 +1,298 @@
+brand,model,trim,manufacture_year,condition,transmission,body_type,fuel_type,engine_capacity,mileage,price
+Toyota,Tank,GS CUSTOM,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","73,000 km",8190000
+Toyota,Prius,2nd Gen,2008,Used,Automatic,Hatchback,Hybrid,"1,500 cc","210,000 km",6100000
+Toyota,Vitz,Toyota,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","73,000 km",7275000
+Toyota,Passo,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","145,000 km",6050000
+Toyota,Prius,3rd Generation,2011,Used,Automatic,Hatchback,Hybrid,"1,800 cc","126,000 km",10000000
+Toyota,Vitz,2015,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","92,000 km",6900000
+Toyota,Aqua,Urban,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","144,000 km",8000000
+Toyota,Vitz,,2007,Used,Automatic,Saloon,Petrol,"1,300 cc","115,000 km",5550000
+Toyota,Vitz,Safety Edition,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","61,900 km",7590000
+Toyota,Vitz,,2015,Used,Automatic,Hatchback,Petrol,990 cc,"94,781 km",7190000
+Toyota,Vitz,Safety Edition 1,2017,Used,Automatic,Hatchback,Petrol,990 cc,"89,520 km",7575000
+Toyota,Aqua,,2016,Used,Automatic,Hatchback,Hybrid,"1,496 cc","81,000 km",9000000
+Toyota,Vitz,Safety Edition,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,737 km",7850000
+Toyota,Aqua,,2013,Used,Automatic,Hatchback,Hybrid,"1,496 cc","74,179 km",6950000
+Toyota,Yaris,X Grade,2024,Used,Automatic,Hatchback,Petrol,"1,000 cc","9,000 km",9490000
+Toyota,Prius,,2013,Used,Automatic,Hatchback,Petrol,"1,800 cc","176,000 km",9950000
+Toyota,Vitz,Vitz,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","105,400 km",7150000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","182,150 km",7490000
+Toyota,Vitz,Safety Edition,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","42,000 km",7500000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","200,500 km",5450000
+Toyota,Vitz,,2017,Used,Automatic,Hatchback,Petrol,990 cc,"64,000 km",7950000
+Toyota,Aqua,Hybrid,2013,Used,Automatic,Hatchback,Petrol,"1,500 cc","48,000 km",8300000
+Toyota,Vitz,KSP130 Vitz,2018,Used,Automatic,Hatchback,Petrol,990 cc,"47,000 km",8500000
+Toyota,Aqua,Aqua,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","128,000 km",6600000
+Toyota,Aqua,G Grade,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","158,000 km",7980000
+Toyota,Vitz,Toyota,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","41,000 km",9000000
+Toyota,Vitz,Vitz,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","58,000 km",7650000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,000 km",5500000
+Toyota,Aqua,G Grade,2015,Used,Automatic,Hatchback,Hybrid,"1,490 cc","180,000 km",8200000
+Toyota,Aqua,,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","188,499 km",7850000
+Toyota,Prius,prius 20,2008,Used,Automatic,Hatchback,Hybrid,"1,500 cc","182,000 km",6350000
+Toyota,Vitz,KSP 90,2008,Used,Automatic,Hatchback,Petrol,990 cc,"140,000 km",5500000
+Toyota,Aqua,,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","120,000 km",7900000
+Toyota,Prius,2nd Generation,2011,Used,Automatic,Hatchback,Hybrid,"1,500 cc","187,000 km",6950000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","92,000 km",7850000
+Toyota,Passo,,2010,Used,Automatic,Hatchback,Petrol,"1,000 cc","165,000 km",4980000
+Toyota,Vitz,Full Option,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","118,000 km",6575000
+Toyota,Vitz,KSP90 Push,2008,Used,Automatic,Hatchback,Petrol,"1,300 cc","167,000 km",5900000
+Toyota,Vitz,,2019,Used,Automatic,Hatchback,Petrol,990 cc,"55,679 km",8500000
+Toyota,Pixis,G Grade,2022,Used,Automatic,Hatchback,Petrol,650 cc,"10,359 km",7195000
+Toyota,Vitz,KSP 90,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","66,057 km",5750000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","113,000 km",7600000
+Toyota,Vitz,,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","110,000 km",5250000
+Toyota,Passo,Safety 2019,2019,Used,Automatic,Hatchback,Petrol,996 cc,"48,000 km",7490000
+Toyota,Aqua,S Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,490 cc","146,504 km",7690000
+Toyota,Passo,Body 2018REG,2014,Used,Automatic,Hatchback,Petrol,"1,000 cc","124,000 km",5550000
+Toyota,Vitz,Toyota Vitz Auto,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","125,000 km",7200000
+Toyota,Vitz,Jewella,2018,Used,Automatic,Hatchback,Petrol,990 cc,"105,322 km",8500000
+Toyota,Aqua,G Grade,2012,Used,Automatic,Hatchback,Petrol,"1,500 cc","101,000 km",7250000
+Toyota,Aqua,X Urban,2014,Used,Automatic,Hatchback,Hybrid,"1,496 cc","159,051 km",7800000
+Toyota,Wigo,G Grade,2017,Used,Automatic,Hatchback,Petrol,998 cc,"96,214 km",5950000
+Toyota,Vitz,Edition 03,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","95,000 km",8250000
+Toyota,Vitz,Vitz 2019 Edition 3,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","70,000 km",8500000
+Toyota,Vitz,,2018,Used,Automatic,Hatchback,Petrol,990 cc,"32,000 km",8750000
+Toyota,Vitz,Toyota,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","90,706 km",7250000
+Toyota,Aqua,G Grade,2013,Used,Automatic,Hatchback,Petrol,"1,500 cc","162,000 km",7350000
+Toyota,Raize,,2019,Used,Automatic,Hatchback,Petrol,998 cc,"110,000 km",9600000
+Toyota,Vitz,,2017,Used,Automatic,Hatchback,Petrol,990 cc,"53,200 km",7800000
+Toyota,Vitz,KSP 130,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","113,000 km",7150000
+Toyota,Vitz,edition 3,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","14,772 km",9000000
+Toyota,Vitz,edition 3,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","145,000 km",7800000
+Suzuki,Swift,RS Turbo,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","99,000 km",7750000
+Toyota,Aqua,Aqua,2013,Used,Automatic,Hatchback,Petrol,"1,500 cc","160,000 km",7800000
+Toyota,Aqua,2014,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","125,000 km",8000000
+Toyota,Vitz,Toyota Vitz,2009,Used,Automatic,Hatchback,Petrol,"1,000 cc","130,456 km",5550000
+Toyota,Aqua,Toyota,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","158,600 km",7390000
+Toyota,Aqua,Silver S grade,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","88,300 km",7450000
+Toyota,Vitz,EDITION  3,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","30,000 km",8450000
+Toyota,Vitz,Toyota,2007,Used,Automatic,Hatchback,Petrol,"1,500 cc","120,609 km",5300000
+Toyota,Vitz,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","54,844 km",7600000
+Toyota,IST,Toyota,2008,Used,Automatic,Hatchback,Petrol,"2,500 cc","250,000 km",6400000
+Toyota,Aqua,,2012,Used,Automatic,Hatchback,Hybrid,"1,498 cc","146,000 km",7450000
+Toyota,Vitz,2016,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","87,500 km",7650000
+Toyota,Aqua,2012,2012,Used,Automatic,Hatchback,Petrol,"1,500 cc","120,715 km",7250000
+Toyota,Aqua,,2012,Used,Automatic,Hatchback,Petrol,"1,500 cc","139,000 km",7525000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,990 cc,"69,668 km",8390000
+Toyota,Vitz,SCP90 1300 Pushstart,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","170,000 km",5475000
+Toyota,Vitz,Safety Edition,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","134,000 km",6950000
+Toyota,Passo,HANA,2013,Used,Automatic,Hatchback,Petrol,990 cc,"95,273 km",6290000
+Toyota,Vitz,Edition 3,2018,Used,Automatic,Hatchback,Petrol,990 cc,"78,933 km",8090000
+Toyota,Vitz,Scp90 1.3 Push Start,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","168,000 km",5400000
+Toyota,Vitz,Safety Edition,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,193 km",7350000
+Honda,Fit,GP 1,2011,Used,Automatic,Hatchback,Petrol,"1,300 cc","128,000 km",6200000
+Toyota,Vitz,Safety Edition 1,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","98,000 km",7695000
+Chery,QQ,,2007,Used,Automatic,Hatchback,Petrol,812 cc,"108,854 km",2275000
+Toyota,Vitz,2007,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","200,000 km",5375000
+Toyota,Vitz,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","150,000 km",6900000
+Toyota,Pixis,Joy G Grade,2018,Used,Automatic,Hatchback,Petrol,650 cc,"76,000 km",6485000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,990 cc,"170,000 km",5800000
+Toyota,Aqua,G Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","142,100 km",7050000
+Toyota,Wigo,,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,000 km",6600000
+Toyota,Aqua,,2013,Used,Automatic,Hatchback,Hybrid,"1,490 cc","140,000 km",7600000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Hybrid,"1,496 cc","110,000 km",7225000
+Toyota,Vitz,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","82,000 km",7000000
+Toyota,Vitz,Edition 1,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","45,000 km",7690000
+Toyota,Aqua,G-Soft Leather,2015,Used,Automatic,Hatchback,Hybrid,"1,496 cc","93,000 km",7850000
+Toyota,Aqua,S Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","173,000 km",7500000
+Toyota,Vitz,G 2nd edition,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","54,000 km",8400000
+Toyota,Vitz,2016,2016,Used,Automatic,Hatchback,Petrol,990 cc,"80,000 km",7200000
+Toyota,Pixis,Full Option,2016,Used,Automatic,Hatchback,Petrol,650 cc,"60,000 km",5475000
+Toyota,Vitz,DBA KSP -130 VITZ,2018,Used,Automatic,Hatchback,Petrol,990 cc,"37,770 km",8650000
+Toyota,Vitz,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","85,000 km",7000000
+Toyota,Vitz,SAFETY,2018,Used,Automatic,Hatchback,Petrol,990 cc,"76,000 km",7990000
+Toyota,Passo,2011,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","118,000 km",4975000
+Toyota,Passo,PUSH START SAFETY,2016,Used,Automatic,Hatchback,Petrol,990 cc,"95,568 km",6890000
+Toyota,Prius,G Sola Sunroof,2010,Used,Automatic,Hatchback,Hybrid,"1,798 cc","184,500 km",9550000
+Toyota,Vitz,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","166,000 km",6900000
+Toyota,Aqua,,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","170,000 km",7250000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","162,000 km",5350000
+Toyota,Aqua,S Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","112,443 km",7250000
+Toyota,Vitz,Safety Edition 1,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","38,000 km",7550000
+Toyota,Aqua,Xurban,2015,Used,Automatic,Hatchback,Hybrid,"1,496 cc","83,000 km",8750000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","85,000 km",7950000
+Toyota,Vitz,Safety Edition 3,2019,Used,Automatic,Hatchback,Petrol,990 cc,"100,005 km",8650000
+Toyota,Passo,Toyota Passo 2013,2013,Used,Automatic,Hatchback,Petrol,"1,000 cc","97,601 km",5800000
+Toyota,Wigo,Wigo,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","81,500 km",6450000
+Toyota,Vitz,2019,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","82,500 km",9200000
+Toyota,Aqua,G Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","176,000 km",7150000
+Toyota,Vitz,Safety Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","69,000 km",8650000
+Toyota,Vitz,,2018,Used,Automatic,Hatchback,Petrol,990 cc,"78,982 km",8500000
+Toyota,Vitz,Safety Push Start,2016,Used,Automatic,Hatchback,Petrol,990 cc,"102,000 km",7200000
+Toyota,Aqua,X URBAN,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","86,000 km",8900000
+Toyota,Vitz,Toyota,2017,Used,Automatic,Hatchback,Petrol,990 cc,"74,800 km",8300000
+Toyota,Vitz,Safety Edition 2,2018,Used,Automatic,Hatchback,Petrol,990 cc,"72,000 km",8350000
+Toyota,Vitz,,2016,Used,Automatic,Hatchback,Petrol,990 cc,"133,622 km",7375000
+Toyota,Roomy,Custom GT,2023,Used,Automatic,Hatchback,Petrol,"1,000 cc","52,640 km",9850000
+Toyota,Vitz,X-SAFETY,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","139,000 km",6990000
+Toyota,Vitz,,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","97,000 km",7500000
+Toyota,Aqua,X Urban,2015,Used,Automatic,Hatchback,Hybrid,"1,490 cc","157,689 km",8900000
+Toyota,Vitz,,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","49,385 km",7100000
+Toyota,Aqua,S Limited,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","218,700 km",7200000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,990 cc,"62,652 km",5850000
+Toyota,Yaris,X,2024,Used,Automatic,Hatchback,Petrol,"1,000 cc","5,000 km",9000000
+Toyota,Vitz,Edition 02,2018,Used,Automatic,Hatchback,Petrol,900 cc,"36,000 km",8900000
+Toyota,Aqua,S Grade,2014,Used,Automatic,Hatchback,Petrol,"1,496 cc","156,000 km",7300000
+Toyota,Vitz,Edition 3,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","117,000 km",8150000
+Toyota,Pixis,JOY,2018,Used,Automatic,Hatchback,Petrol,650 cc,"41,195 km",6890000
+Toyota,Aqua,S Grade,2013,Used,Automatic,Hatchback,Hybrid,"1,496 cc","200,000 km",7200000
+Toyota,Vitz,,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","46,000 km",8150000
+Toyota,Vitz,Toyota Vitz,2008,Used,Automatic,Hatchback,Petrol,990 cc,"145,000 km",5300000
+Toyota,Aqua,S Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","111,000 km",7000000
+Toyota,Aqua,2013,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","88,000 km",7100000
+Toyota,Vitz,,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","61,000 km",6700000
+Toyota,Vitz,KSP 90,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","157,000 km",5100000
+Toyota,Vitz,,2017,Used,Automatic,Hatchback,Petrol,990 cc,"96,457 km",7690000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","53,000 km",7800000
+Toyota,Vitz,Vitz 2019,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","88,600 km",8400000
+Toyota,Aqua,S Limited,2013,Used,Automatic,Hatchback,Hybrid,"1,496 cc","161,000 km",7650000
+Toyota,Aqua,S Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,490 cc","89,000 km",7590001
+Toyota,Vitz,Edition 3,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","35,000 km",8650000
+Toyota,Vitz,2 Editions,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","79,000 km",7825000
+Toyota,Aqua,,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","142,000 km",6475000
+Toyota,Vitz,KSP130,2017,Used,Automatic,Hatchback,Petrol,990 cc,"55,470 km",7990000
+Toyota,Vitz,2017,2017,Used,Automatic,Hatchback,Petrol,990 cc,"56,000 km",8200000
+Toyota,Yaris,X Grade Facelift,2025,Used,Automatic,Hatchback,Petrol,"1,000 cc",243 km,9950000
+Toyota,Vitz,1st Edition,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","41,500 km",7950000
+Toyota,Wigo,G Grade,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","129,000 km",5600000
+Toyota,Aqua,2013,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","170,000 km",7150000
+Toyota,Vitz,Safety Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","74,000 km",7800000
+Toyota,Vitz,2015,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","62,530 km",7150000
+Toyota,Tank,2017,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","90,000 km",7500000
+Toyota,Passo,XL,2023,Used,Automatic,Hatchback,Petrol,996 cc,"7,800 km",8100000
+Toyota,Vitz,Safety,2017,Used,Automatic,Hatchback,Petrol,990 cc,"57,600 km",7900000
+Toyota,Aqua,Hybrid,2012,Used,Automatic,Hatchback,Hybrid,"1,490 cc","153,339 km",6350000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","149,000 km",7350000
+Toyota,Yaris,Auto,2011,Used,Automatic,Hatchback,Petrol,"1,300 cc","124,000 km",6475000
+Toyota,Aqua,G Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,200 cc","148,000 km",7700000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,990 cc,"61,000 km",7900000
+Toyota,Vitz,Edition 1,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","98,000 km",7500000
+Toyota,Vitz,KSP90,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","170,000 km",5090000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Petrol,"1,490 cc","156,200 km",7800000
+Toyota,Vitz,KSP 90 RS,2010,Used,Automatic,Hatchback,Petrol,"1,300 cc","188,000 km",6100000
+Toyota,Prius,Good,2013,Used,Automatic,Hatchback,Hybrid,"1,798 cc","123,000 km",10000000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Petrol,"1,490 cc","93,000 km",7800000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","93,000 km",7600000
+Toyota,Vitz,,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","80,000 km",8000000
+Toyota,Passo,Fully Loaded,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","120,000 km",4600000
+Toyota,Aqua,S,2012,Used,Automatic,Hatchback,Petrol,"1,500 cc","166,000 km",6490000
+Toyota,Vitz,Safety,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","108,000 km",6950000
+Toyota,Aqua,S Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","100,478 km",7990000
+Toyota,Yaris,X Grade,2023,Used,Automatic,Hatchback,Petrol,990 cc,"16,990 km",9190000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","106,000 km",7350000
+Toyota,Vitz,Edition 1,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","37,318 km",8250000
+Toyota,Vitz,KSP90  KI-2010,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","150,000 km",4975000
+Toyota,Wigo,,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","66,000 km",6500000
+Toyota,Aqua,G Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","137,000 km",7850000
+Toyota,Yaris,X Grade,2023,Used,Automatic,Hatchback,Petrol,"1,000 cc","61,000 km",8850000
+Toyota,Vitz,2016,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","125,000 km",6975000
+Toyota,Passo,XL Safety,2023,Used,Automatic,Hatchback,Petrol,"1,000 cc","24,500 km",8275000
+Toyota,Aqua,X URBAN 1ST OWNER,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","105,000 km",8790000
+Toyota,Aqua,S Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,490 cc","78,636 km",7890000
+Toyota,Vitz,2015,2015,Used,Automatic,Hatchback,Petrol,990 cc,"106,316 km",7700000
+Toyota,Vitz,1st Edition,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","68,000 km",8500000
+Toyota,Yaris,X Limited,2023,Used,Automatic,Hatchback,Petrol,990 cc,"16,500 km",9150000
+Toyota,Prius,,2010,Used,Automatic,Hatchback,Hybrid,"1,800 cc","175,000 km",9125000
+Toyota,Vitz,Safety 1,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","67,000 km",7900000
+Toyota,Aqua,S Grade,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","140,000 km",7940000
+Toyota,Vitz,,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","66,000 km",7200000
+Toyota,Vitz,Safety Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,000 km",8000000
+Toyota,Aqua,2012,2012,Used,Automatic,Hatchback,Petrol,"1,500 cc","56,000 km",7800000
+Toyota,Vitz,Full Option,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","90,000 km",5475000
+Toyota,Prius,Prius CX  2011,2011,Used,Automatic,Hatchback,Hybrid,"1,789 cc","107,499 km",8500000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,990 cc,"91,134 km",8490000
+Toyota,Vitz,Edition 2 safty push,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","69,000 km",8200000
+Toyota,Vitz,SCP90 1.3l,2010,Used,Automatic,Hatchback,Petrol,"1,300 cc","251,000 km",5600000
+Toyota,Passo,,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","131,000 km",4650000
+Toyota,Vitz,,2019,Used,Automatic,Hatchback,Petrol,990 cc,"92,329 km",7800000
+Toyota,Aqua,G Grade,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc",185 km,7000000
+Toyota,Aqua,X Urban,2015,Used,Automatic,Hatchback,Petrol,"1,500 cc","105,000 km",8350000
+Toyota,Vitz,,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","238,000 km",7250000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","124,000 km",9100000
+Toyota,Vitz,U Grade,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","99,000 km",5875000
+Toyota,Prius,2nd Gen,2009,Used,Automatic,Hatchback,Petrol,"1,500 cc","143,310 km",5800000
+Toyota,Aqua,X Urban,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","128,000 km",8875000
+Toyota,Harrier,HYBRID 2015,2015,Reconditioned,Automatic,Hatchback,Hybrid,250 cc,"115,000 km",1650000
+Toyota,Roomy,X,2023,Used,Automatic,Hatchback,Petrol,"1,000 cc","17,805 km",8950000
+Toyota,Aqua,,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","142,000 km",6475000
+Toyota,Roomy,M900,2017,Used,Automatic,Hatchback,Petrol,900 cc,"94,000 km",7750000
+Toyota,Vitz,KSP 90,2010,Used,Automatic,Hatchback,Petrol,"1,000 cc","155,800 km",5750000
+Toyota,Yaris,2023 X GR push start,2023,Used,Automatic,Hatchback,Petrol,996 cc,"13,500 km",9225000
+Toyota,Passo,2009,2009,Used,Automatic,Hatchback,Petrol,"1,000 cc","85,000 km",4850000
+Toyota,Vitz,,2010,Used,Automatic,Hatchback,Petrol,990 cc,"143,493 km",5850000
+Toyota,Aqua,S Grade,2013,Used,Automatic,Hatchback,Hybrid,"1,490 cc","166,000 km",7400000
+Toyota,Aqua,Urban,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","86,000 km",8650000
+Toyota,Vitz,KS90,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","147,000 km",4800000
+Toyota,Ractis,2007,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","165,000 km",7250000
+Toyota,Vitz,,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","152,000 km",5300000
+Toyota,Vitz,,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","121,000 km",5300000
+Toyota,Aqua,S Grade,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","103,000 km",7225000
+Toyota,Passo,,2007,Used,Automatic,Hatchback,Petrol,996 cc,"187,000 km",4700000
+Toyota,Vitz,KSP 130,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","117,000 km",6950000
+Toyota,Wigo,,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","75,000 km",6250000
+Toyota,Vitz,Edition 3,2018,Used,Automatic,Hatchback,Petrol,990 cc,"152,570 km",8500000
+Toyota,Vitz,Vitz,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","120,000 km",6850000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Hybrid,"1,496 cc","153,500 km",7400000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,990 cc,"133,334 km",5850000
+Toyota,Aqua,Urban,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","152,000 km",7350000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","91,000 km",8400000
+Toyota,Vitz,Edition 2 Safety,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","47,000 km",7850000
+Toyota,Pixis,Joy,2017,Used,Automatic,Hatchback,Petrol,650 cc,"111,000 km",6250000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","125,000 km",5950000
+Toyota,Vitz,Safty,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","85,000 km",7650000
+Toyota,Vitz,8 AIR BAG,2009,Used,Automatic,Hatchback,Petrol,"1,000 cc","145,000 km",5175000
+Toyota,Passo,Auto,2015,Used,Automatic,Hatchback,Petrol,990 cc,"129,000 km",6290000
+Toyota,Aqua,S Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,490 cc","191,955 km",6975000
+Toyota,Aqua,Toyota Aqua,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","128,000 km",8900000
+Toyota,Aqua,Urban,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","131,000 km",8500000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","65,000 km",7850000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","120,000 km",6975000
+Toyota,Aqua,S GRADE,2012,Used,Automatic,Hatchback,Hybrid,"1,490 cc","137,000 km",6950000
+Toyota,Aqua,Aqua,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","150,000 km",8550000
+Toyota,Vitz,2nd Edition,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","33,100 km",8500000
+Perodua,Axia,G Grade,2016,Used,Automatic,Hatchback,Petrol,998 cc,"105,350 km",5695000
+Toyota,Aqua,G Grade,2013,Used,Automatic,Hatchback,Petrol,"1,500 cc","170,000 km",7500000
+Toyota,Aqua,S Limited,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","194,000 km",7500000
+Toyota,Aqua,,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","114,000 km",7950000
+Toyota,Vitz,KSP 90,2010,Used,Automatic,Hatchback,Petrol,"1,000 cc","128,000 km",5500000
+Toyota,Aqua,,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","138,000 km",7400000
+Toyota,Aqua,S Grade,2015,Used,Automatic,Hatchback,Hybrid,"1,000 cc","78,000 km",8700000
+Toyota,Vitz,2018,2018,Used,Automatic,Hatchback,Petrol,990 cc,"30,000 km",8400000
+Toyota,Aqua,Urban Face,2015,Used,Automatic,Hatchback,Hybrid,"1,500 cc","165,000 km",8500000
+Toyota,Vitz,KSP90,2010,Used,Automatic,Hatchback,Petrol,"1,000 cc","162,000 km",5990000
+Toyota,Vitz,,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","78,067 km",8050000
+Toyota,Aqua,,2013,Used,Automatic,Hatchback,Hybrid,"1,490 cc","190,000 km",7000000
+Toyota,Allion,,2010,Used,Automatic,Hatchback,Petrol,"1,490 cc","273,515 km",9850000
+Toyota,Vitz,Safety Edition,2015,Used,Automatic,Hatchback,Petrol,990 cc,"141,000 km",7150000
+Toyota,Pixis,,2015,Used,Automatic,Hatchback,Petrol,650 cc,"82,014 km",5390000
+Toyota,CHR,NGX10,2019,Used,Automatic,,Petrol,"1,200 cc","98,000 km",12950000
+Toyota,Prius,3rd Generation,2011,Used,Automatic,Hatchback,Hybrid,"1,798 cc","96,000 km",9500000
+Toyota,Vitz,Toyota,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","125,000 km",5375000
+Suzuki,Wagon R,Custom Z - Upgraded,2024,Used,Automatic,Hatchback,Petrol,650 cc,"8,500 km",8700000
+Toyota,Vitz,,2008,Used,Automatic,Hatchback,Petrol,"1,000 cc","116,000 km",5450000
+Toyota,Vitz,Safety Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","101,000 km",8000000
+Toyota,Aqua,G limited,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","210,000 km",7000000
+Toyota,Roomy,X,2023,Used,Automatic,Hatchback,Petrol,"1,000 cc","24,805 km",8850000
+Toyota,Vitz,,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","49,000 km",7850000
+Toyota,IST,Ncp 110,2007,Used,Automatic,Hatchback,Petrol,"1,500 cc","100,000 km",6850000
+Toyota,Passo,,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","97,500 km",6800000
+Toyota,Vitz,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","80,296 km",7800000
+Toyota,Vitz,Edition 2,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,000 km",7795000
+Toyota,Vitz,Edition 1,2018,Used,Automatic,Hatchback,Petrol,990 cc,"19,980 km",8000000
+Toyota,Aqua,S Limited,2013,Used,Automatic,Hatchback,Hybrid,"1,500 cc","76,000 km",7250000
+Toyota,Vitz,,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","51,000 km",7990000
+Toyota,Aqua,G Grade 2016,2016,Used,Automatic,Hatchback,Hybrid,"1,500 cc","150,000 km",9200000
+Toyota,Vitz,Edition 3 LED,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","59,000 km",8650000
+Toyota,Passo,2017,2017,Used,Automatic,Hatchback,Petrol,990 cc,"52,000 km",7500000
+Toyota,Vitz,,2017,Used,Automatic,Hatchback,Petrol,990 cc,"45,789 km",7995000
+Toyota,Aqua,,2012,Used,Automatic,Hatchback,Hybrid,"1,490 cc","198,512 km",6800000
+Toyota,Aqua,G Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc",204 km,7100000
+Toyota,Vitz,Safety Edition,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","160,000 km",7400000
+Toyota,Vitz,KSP 90,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","72,000 km",5500000
+Toyota,Vitz,Edition 1,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","105,000 km",7495000
+Toyota,Vitz,Amie,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","32,000 km",8350000
+Toyota,Vitz,Edition 3 safety,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","37,394 km",8275000
+Toyota,Vitz,KSP130 Safty pakge,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","130,000 km",7500000
+Toyota,Aqua,S Grade,2012,Used,Automatic,Hatchback,Hybrid,"1,500 cc","111,000 km",7000000
+Toyota,Vitz,,2005,Used,Automatic,Hatchback,Petrol,"1,000 cc","145,000 km",4950000

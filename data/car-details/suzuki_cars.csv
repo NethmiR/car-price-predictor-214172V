@@ -1,0 +1,306 @@
+brand,model,trim,manufacture_year,condition,transmission,body_type,fuel_type,engine_capacity,mileage,price
+Suzuki,Wagon R FX,Safety Hybrid,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"81,006 km",6295000
+Honda,Fit,GP5,2013,Used,Automatic,Hatchback,Petrol,"1,490 cc","143,000 km",7350000
+Suzuki,Wagon R,,2016,Used,Automatic,Hatchback,Petrol,650 cc,"220,000 km",5600000
+Suzuki,Wagon R FZ,2015,2015,Used,Automatic,Hatchback,Hybrid,660 cc,"118,000 km",5745000
+Suzuki,Baleno,2017,2017,Used,Automatic,Hatchback,Petrol,990 cc,"158,000 km",9000000
+Suzuki,Wagon R,,2018,Used,Automatic,Hatchback,Hybrid,660 cc,"145,000 km",6295000
+Suzuki,Spacia,Custom,2016,Used,Automatic,Hatchback,Hybrid,650 cc,"120,898 km",6890000
+Suzuki,Celerio,Suzuki Celerio VXI,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","100,450 km",5100000
+Suzuki,Wagon R FZ,Safety,2014,Used,Automatic,Hatchback,Hybrid,650 cc,"119,603 km",5750000
+Suzuki,Alto,,2023,Used,Automatic,Hatchback,Hybrid,660 cc,"30,000 km",6500000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Petrol,650 cc,"92,744 km",7190000
+Suzuki,Wagon R Stingray,,2017,Used,Automatic,Hatchback,Petrol,"6,550 cc","75,794 km",6925001
+Suzuki,Wagon R,Stingray,2018,Used,Automatic,Hatchback,Petrol,660 cc,"55,000 km",6850000
+Suzuki,Spacia,2016,2016,Used,Automatic,Hatchback,Petrol,650 cc,"150,000 km",5800000
+Suzuki,Spacia,Z Custom,2018,Used,Automatic,Hatchback,Petrol,660 cc,"84,000 km",7090000
+Suzuki,Swift,RS Turbo,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","92,000 km",8200000
+Honda,Fit,GP1 Navi Premium,2012,Used,Automatic,Hatchback,Petrol,"1,330 cc","120,000 km",6380000
+Suzuki,Wagon R FZ,Premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"69,597 km",6750001
+Suzuki,Alto,,2017,Used,Automatic,Hatchback,Petrol,660 cc,"129,000 km",5375000
+Suzuki,Wagon R FX,Non Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"116,012 km",6190000
+Suzuki,Spacia,,2024,Used,Automatic,Hatchback,Hybrid,660 cc,"1,830 km",9550000
+Suzuki,Celerio,ZXI Auto,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","64,000 km",5725000
+Suzuki,Celerio,ZXI Auto,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,000 km",5275000
+Toyota,Vitz,KSP130 Vitz,2018,Used,Automatic,Hatchback,Petrol,990 cc,"47,000 km",8500000
+Suzuki,Wagon R,J Style,2015,Used,Automatic,Hatchback,Petrol,650 cc,"57,500 km",5750000
+Honda,Vezel,Orange Pack,2014,Used,Automatic,Hatchback,Hybrid,"1,500 cc","180,000 km",8800000
+Suzuki,Wagon R FZ,SAFETY PUSH 2016,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"108,542 km",5390000
+Suzuki,Wagon R Stingray,Safety,2014,Used,Automatic,Hatchback,Hybrid,650 cc,"120,000 km",5540000
+Suzuki,Alto,HA36,2017,Used,Automatic,Hatchback,Petrol,650 cc,"111,941 km",5230000
+Suzuki,Wagon R FZ,Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"37,826 km",6990000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","64,000 km",6750000
+Suzuki,Hustler,,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"161,817 km",5890000
+Suzuki,Wagon R FX,2018,2018,Used,Automatic,Hatchback,Petrol,660 cc,"90,000 km",6175000
+Suzuki,Wagon R Stingray,J Style,2014,Used,Automatic,Hatchback,Hybrid,660 cc,"78,000 km",5680000
+Suzuki,Hustler,G,2015,Used,Automatic,Hatchback,Hybrid,660 cc,"155,000 km",5565000
+Suzuki,Wagon R FZ,,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"113,000 km",6950000
+Suzuki,Celerio,X 1st Owner,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","78,000 km",5790000
+Suzuki,Swift,JAPAN,2005,Used,Automatic,Hatchback,Petrol,"1,320 cc","172,000 km",5290000
+Suzuki,Wagon R FX,2018,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"82,000 km",6350000
+Suzuki,Wagon R FZ,Premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"86,669 km",6790000
+Suzuki,Swift,2007,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","90,000 km",5400000
+Suzuki,Baleno,,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","128,000 km",7250000
+Suzuki,Swift,2005,2005,Used,Automatic,Hatchback,Petrol,"1,320 cc","153,000 km",5100000
+Suzuki,Swift,,2014,Used,Automatic,Hatchback,Petrol,"1,400 cc","110,009 km",6800000
+Suzuki,Wagon R FX,Safety,2017,Used,Automatic,Hatchback,Petrol,650 cc,"45,000 km",6700000
+Suzuki,Wagon R Stingray,X,2018,Used,Automatic,Hatchback,Hybrid,660 cc,"41,325 km",7100000
+Suzuki,Wagon R Stingray,Wagon R Stingray,2014,Used,Automatic,Hatchback,Hybrid,650 cc,"129,000 km",5475000
+Suzuki,Swift,ZC71S,2009,Used,Automatic,Hatchback,Petrol,"1,300 cc","113,000 km",5100000
+Toyota,Passo,Body 2018REG,2014,Used,Automatic,Hatchback,Petrol,"1,000 cc","124,000 km",5550000
+Suzuki,Alto,S Grade Hybrid,2024,Used,Automatic,Hatchback,Hybrid,660 cc,"5,000 km",7025000
+Suzuki,Wagon R FX,,2018,Used,Automatic,Hatchback,Hybrid,660 cc,"59,200 km",5800000
+Suzuki,Wagon R Stingray,,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"75,794 km",6925000
+Suzuki,Alto,S GRADE,2024,Used,Automatic,Hatchback,Hybrid,650 cc,"2,000 km",6895000
+Suzuki,Wagon R Stingray,,2014,Used,Automatic,Hatchback,Hybrid,650 cc,"90,676 km",5990000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Petrol,660 cc,"83,500 km",7050000
+Suzuki,Wagon R Stingray,,2014,Used,Automatic,Hatchback,Hybrid,660 cc,"60,000 km",6200000
+Suzuki,Wagon R Stingray,Suzuki,2018,Used,Automatic,Hatchback,Petrol,660 cc,"100,000 km",7000000
+Suzuki,Wagon R Stingray,,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"177,097 km",5590000
+Suzuki,Wagon R,premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"82,143 km",6950000
+Suzuki,Swift,RS Turbo,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","96,500 km",8250000
+Suzuki,Wagon R Stingray,,2014,Used,Automatic,Hatchback,Hybrid,660 cc,"53,000 km",5800000
+Suzuki,Alto,L Grade,2017,Used,Automatic,Hatchback,Petrol,660 cc,"106,000 km",5200000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"66,367 km",7090000
+Suzuki,Swift,RS Turbo,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","99,000 km",7750000
+Suzuki,Wagon R FZ,Premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"36,131 km",6895001
+Suzuki,Wagon R FZ,,2017,Used,Automatic,Hatchback,Petrol,650 cc,"73,800 km",6390000
+Suzuki,Hustler,J Style,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"94,578 km",5890000
+Suzuki,Swift,RS,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","78,944 km",7975000
+Suzuki,Alto,Japan,2016,Used,Automatic,Hatchback,Petrol,660 cc,"105,000 km",5350000
+Suzuki,Maruti,2007,2007,Used,Automatic,Hatchback,Petrol,800 cc,"125,000 km",2050000
+Suzuki,Wagon R Stingray,Suzuki,2019,Used,Automatic,Hatchback,Petrol,650 cc,"62,247 km",7500000
+Suzuki,Swift,SWIFT JAPAN 1300,2006,Used,Automatic,Hatchback,Petrol,"1,300 cc","142,147 km",4990000
+Suzuki,Spacia,Semi-Hybrid,2016,Used,Automatic,Hatchback,Petrol,650 cc,"120,000 km",5850000
+Suzuki,Wagon R FZ,Non Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"75,876 km",6790001
+Suzuki,Spacia,Custom,2015,Used,Automatic,Hatchback,Petrol,660 cc,"142,000 km",6490000
+Suzuki,Wagon R,J Style,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"95,000 km",6375000
+Suzuki,Wagon R FZ,Safety 55000km,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"55,000 km",6650000
+Suzuki,Wagon R,Stingray,2018,Used,Automatic,Hatchback,Petrol,660 cc,"62,150 km",7500000
+Suzuki,Wagon R FZ,Premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"64,433 km",6750000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","107,000 km",4650000
+Suzuki,Celerio,Suzuki,2014,Used,Automatic,Hatchback,Petrol,"1,000 cc","102,400 km",4750000
+Suzuki,Wagon R FX,Non Safety,2017,Used,Automatic,Hatchback,Petrol,650 cc,"97,246 km",5825000
+Suzuki,Wagon R Stingray,STRINGRAY 2016,2016,Used,Automatic,Hatchback,Hybrid,650 cc,"108,452 km",5625000
+Honda,Fit,GP 1,2011,Used,Automatic,Hatchback,Petrol,"1,300 cc","128,000 km",6200000
+Suzuki,Swift,Beetle,2010,Used,Automatic,Hatchback,Petrol,"1,300 cc","137,000 km",5975000
+Suzuki,Swift,Beetle,2007,Used,Automatic,Hatchback,Petrol,"1,500 cc","160,000 km",5375000
+Suzuki,Hustler,,2016,Used,Automatic,Hatchback,Petrol,"6,600 cc","131,200 km",5575000
+Suzuki,Celerio,Vxi Auto,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","98,000 km",4975000
+Suzuki,Wagon R FZ,Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"77,317 km",6875000
+Suzuki,Wagon R FZ,Safety Model,2017,Used,Automatic,Hatchback,Petrol,650 cc,"238,000 km",6300000
+Toyota,Vitz,2007,2007,Used,Automatic,Hatchback,Petrol,"1,000 cc","200,000 km",5375000
+Suzuki,Celerio,ZXI,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","72,841 km",5500000
+Suzuki,Alto,,2007,Used,Automatic,Hatchback,Petrol,800 cc,"106,889 km",3550000
+Suzuki,SX4,Auto,2010,Used,Automatic,Hatchback,Petrol,"1,600 cc","160,000 km",4990000
+Suzuki,Alto,K10,2016,Used,Automatic,Hatchback,Petrol,998 cc,"66,674 km",4590000
+Suzuki,Swift,Japan,2011,Used,Automatic,Hatchback,Petrol,"1,400 cc","110,000 km",5550000
+Suzuki,Celerio,Vxi Auto,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","116,000 km",4975000
+Suzuki,Alto,Suzuki Japan Alto,2017,Used,Automatic,Hatchback,Petrol,650 cc,"109,000 km",5500000
+Suzuki,Wagon R FZ,,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"80,000 km",6600000
+Suzuki,Celerio,Vxi Auto,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","96,000 km",4975000
+Suzuki,Alto,Japan Alto 2017,2017,Used,Automatic,Hatchback,Petrol,650 cc,"74,300 km",5350000
+Suzuki,Wagon R Stingray,S-Hybrid,2023,Used,Automatic,Hatchback,Petrol,660 cc,"19,760 km",8650000
+Suzuki,Wagon R FX,Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"94,885 km",6330000
+Suzuki,Swift,Suzuki,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","120,000 km",7500000
+Suzuki,Celerio,Vxi Auto,2014,Used,Automatic,Hatchback,Petrol,"1,000 cc","103,000 km",4675000
+Suzuki,Wagon R FZ,Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"58,826 km",6950000
+Suzuki,Celerio,VXI,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","80,000 km",5225000
+Suzuki,Alto,Suzuki,2017,Used,Automatic,Hatchback,Petrol,660 cc,"98,450 km",5400000
+Suzuki,Wagon R FZ,Premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"76,675 km",6850000
+Suzuki,Baleno,,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","64,000 km",7790000
+Suzuki,Spacia,MK42S,2016,Used,Automatic,Hatchback,Petrol,660 cc,"190,000 km",6000000
+Suzuki,Wagon R FZ,Premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"89,363 km",6690000
+Suzuki,Swift,,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","157,690 km",5250000
+Suzuki,Swift,,2017,Used,Automatic,Hatchback,Petrol,990 cc,"78,000 km",7990000
+Suzuki,Alto,K10,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","107,800 km",4890000
+Suzuki,Wagon R FX,,2017,Used,Automatic,Hatchback,Petrol,650 cc,"106,250 km",6350000
+Suzuki,Wagon R FZ,FZ Safety MH55S,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"122,000 km",6750000
+Suzuki,Wagon R FX,Suzuki,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"79,000 km",5850000
+Suzuki,Wagon R,Suzuki,2018,Used,Automatic,Hatchback,Petrol,650 cc,"105,100 km",6700000
+Suzuki,Celerio,Suzuki Celerio VXI,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","60,000 km",5000000
+Suzuki,Wagon R,FZ Safety,2017,Used,Automatic,Hatchback,Petrol,660 cc,"85,000 km",7100000
+Suzuki,Wagon R Stingray,TURBO / 4WAY / HUD,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"117,000 km",7150000
+Suzuki,Wagon R Stingray,2018,2018,Used,Automatic,Hatchback,Hybrid,660 cc,"79,000 km",7200000
+Suzuki,Vitara,Vitara,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","112,939 km",9000000
+Suzuki,Swift,2008,2008,Used,Automatic,Hatchback,Petrol,"1,300 cc","144,000 km",5800000
+Suzuki,A-Star,,2011,Used,Automatic,Hatchback,Petrol,"1,000 cc","100,000 km",4200000
+Suzuki,Wagon R,Wagon R Premium,2018,Used,Automatic,Hatchback,Hybrid,658 cc,"62,800 km",6985000
+Suzuki,Celerio,X 1st Owner,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","48,000 km",5825000
+Suzuki,Wagon R FX,wagon R,2018,Used,Automatic,Hatchback,Petrol,600 cc,"108,000 km",6100000
+Suzuki,Wagon R FZ,Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"76,470 km",6790000
+Suzuki,Wagon R FX,Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"119,000 km",6000000
+Suzuki,Wagon R Stingray,Safety,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"150,000 km",5750000
+Suzuki,Wagon R FX,Non Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"78,195 km",5975000
+Suzuki,Celerio,VXI,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","122,000 km",4800000
+Suzuki,Wagon R Stingray,Stingray,2019,Used,Automatic,Hatchback,Petrol,660 cc,"79,000 km",7400000
+Suzuki,Wagon R Stingray,,2014,Used,Automatic,Hatchback,Petrol,650 cc,"106,000 km",5650000
+Suzuki,Alto,L Grade,2023,Used,Automatic,Hatchback,Petrol,650 cc,"5,000 km",6545000
+Suzuki,Swift,Rs,2017,Used,Automatic,Hatchback,Hybrid,"1,240 cc","103,323 km",8395000
+Suzuki,Wagon R Stingray,,2015,Used,Automatic,Hatchback,Hybrid,660 cc,"140,000 km",5750000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"77,000 km",6800000
+Suzuki,Wagon R FZ,Suzuki,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"78,000 km",6175000
+Suzuki,Wagon R Stingray,Suzuki Wagon R,2015,Used,Automatic,Hatchback,Hybrid,660 cc,"148,000 km",5650000
+Suzuki,Wagon R Stingray,Wagon R Z Custom,2025,Used,Automatic,Hatchback,Hybrid,660 cc,"50,000 km",8800000
+Suzuki,Wagon R Stingray,,2017,Used,Automatic,Hatchback,Petrol,650 cc,"63,024 km",7090000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"52,600 km",7000000
+Suzuki,Wagon R Stingray,,2014,Used,Automatic,Hatchback,Petrol,660 cc,"109,000 km",5625000
+Suzuki,Alto,,2016,Used,Automatic,Hatchback,Petrol,660 cc,"87,800 km",5200000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,996 cc,"130,000 km",5300000
+Suzuki,Wagon R FZ,Premium,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"74,156 km",6650000
+Suzuki,Swift,RS TURBO,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","112,000 km",8290000
+Suzuki,Wagon R,Suzuki,2015,Used,Automatic,Hatchback,Petrol,650 cc,"172,000 km",5650000
+Suzuki,Swift,,2017,Used,Automatic,Hatchback,Petrol,990 cc,"117,500 km",7900000
+Suzuki,Celerio,ZXI Elegance  Auto,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","129,000 km",5375000
+Suzuki,Celerio,VXI Elegance,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","146,000 km",5250000
+Suzuki,Alto,,2007,Used,Automatic,Hatchback,Petrol,650 cc,"132,765 km",4290000
+Suzuki,A-Star,,2011,Used,Automatic,Hatchback,Petrol,"1,000 cc","145,000 km",4485000
+Suzuki,Wagon R FX,Hybrid,2024,Used,Automatic,Hatchback,Hybrid,660 cc,"3,500 km",7500000
+Suzuki,A-Star,,2011,Used,Automatic,Hatchback,Petrol,998 cc,"131,287 km",4590001
+Suzuki,Hustler,,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"134,000 km",5850000
+Suzuki,Wagon R FZ,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"106,364 km",6590000
+Suzuki,Wagon R FX,Suzuki,2017,Used,Automatic,Hatchback,Petrol,660 cc,"107,000 km",6100000
+Suzuki,Wagon R FX,2016,2016,Used,Automatic,Hatchback,Petrol,660 cc,"190,000 km",5950000
+Suzuki,Celerio,Vxi Auto,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","93,000 km",4925000
+Suzuki,Spacia,Custom XS Hybrid,2023,Reconditioned,Automatic,Hatchback,Hybrid,660 cc,"20,000 km",8450000
+Suzuki,Wagon R Stingray,,2017,Used,Automatic,Hatchback,Petrol,650 cc,"155,000 km",6850000
+Suzuki,Wagon R FX,Safety,2024,Used,Automatic,Hatchback,Petrol,650 cc,"8,000 km",7490000
+Suzuki,Wagon R FX,,2016,Used,Automatic,Hatchback,Petrol,650 cc,"48,000 km",5850000
+Suzuki,Swift,HYBRID,2017,Used,Automatic,Hatchback,Hybrid,"1,200 cc","60,000 km",8050000
+Suzuki,Wagon R FZ,FZ,2017,Used,Automatic,Hatchback,Petrol,650 cc,"81,300 km",6500000
+Suzuki,Swift,Beetle,2011,Used,Automatic,Hatchback,Petrol,"1,240 cc","15,600 km",5495000
+Suzuki,Celerio,ZXI,2017,Used,Automatic,Hatchback,Petrol,998 cc,"108,700 km",5500000
+Suzuki,Wagon R FZ,Safety,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"84,900 km",5990000
+Suzuki,A-Star,BRAND NEW,2013,Used,Automatic,Hatchback,Petrol,"1,000 cc","94,000 km",4475000
+Suzuki,Wagon R,Suzuki,2017,Used,Automatic,Hatchback,Petrol,650 cc,"45,000 km",6500000
+Suzuki,Wagon R Stingray,Suzuki,2014,Used,Automatic,Hatchback,Petrol,650 cc,"178,000 km",5520000
+Suzuki,Celerio,VXI,2015,Used,Automatic,Hatchback,Petrol,996 cc,"87,570 km",5275000
+Suzuki,Wagon R FX,Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"146,982 km",6375000
+Suzuki,Wagon R FZ,Premium,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"74,273 km",6895002
+Suzuki,Wagon R FZ,Safety,2014,Used,Automatic,Hatchback,Hybrid,650 cc,"94,211 km",5575000
+Suzuki,A-Star,,2013,Used,Automatic,Hatchback,Petrol,998 cc,"116,811 km",4690000
+Suzuki,Hustler,G Grade Hybrid,2024,Import,Automatic,Hatchback,Hybrid,650 cc,"18,326 km",8000000
+Suzuki,Spacia,Suzuki,2016,Used,Automatic,Hatchback,Petrol,650 cc,"112,000 km",6275000
+Suzuki,Hustler,Suzuki,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"130,000 km",5700000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"68,311 km",6895000
+Suzuki,Swift,Beetle 2008 Japan,2008,Used,Automatic,Hatchback,Petrol,"1,300 cc","119,220 km",5290000
+Toyota,Aqua,,2014,Used,Automatic,Hatchback,Petrol,"1,500 cc","93,000 km",7600000
+Suzuki,Swift,RS Turbo,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","97,000 km",8400000
+Suzuki,Wagon R FX,2025/09,2023,Used,Automatic,Hatchback,Hybrid,650 cc,"10,000 km",7290000
+Suzuki,Wagon R Stingray,J style,2014,Used,Automatic,Hatchback,Hybrid,660 cc,"88,000 km",5675000
+Suzuki,Wagon R FZ,Wagon R FZ,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"126,000 km",6200000
+Suzuki,Swift,2007,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","142,000 km",5300000
+Suzuki,Swift,,2005,Used,Automatic,Hatchback,Petrol,"1,320 cc","173,785 km",5250000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"59,392 km",6990002
+Suzuki,Swift,RS Hybrid,2017,Used,Automatic,Hatchback,Petrol,"1,200 cc","70,000 km",8900000
+Suzuki,Wagon R FZ,Safety 4 way Camera,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"87,645 km",6890000
+Suzuki,Wagon R FX,Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"82,699 km",6090000
+Suzuki,Hustler,G,2024,Used,Automatic,Hatchback,Petrol,650 cc,"9,500 km",8250000
+Suzuki,Wagon R FZ,FZ,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"74,800 km",6800000
+Suzuki,Wagon R FX,,2017,Used,Automatic,Hatchback,Petrol,660 cc,"131,000 km",5550000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","54,149 km",5200000
+Suzuki,Swift,Suzuki Swift Japan,2009,Used,Automatic,Hatchback,Petrol,"1,300 cc","158,000 km",5600000
+Suzuki,A-Star,,2011,Used,Automatic,Hatchback,Petrol,"1,000 cc","90,000 km",3850000
+Suzuki,Wagon R,STINGRAY X LIMITED,2018,Used,Automatic,Hatchback,Hybrid,660 cc,"54,000 km",7550000
+Suzuki,Swift,,2007,Used,Automatic,Hatchback,Petrol,"1,240 cc","141,500 km",4750000
+Suzuki,Alto,,2016,Used,Automatic,Hatchback,Petrol,650 cc,"159,945 km",5275000
+Suzuki,Wagon R FZ,Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"68,206 km",6790000
+Suzuki,Wagon R Stingray,Suzuki,2016,Used,Automatic,Hatchback,Petrol,650 cc,"105,000 km",5800000
+Suzuki,Wagon R FX,,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"122,300 km",5900000
+Suzuki,Wagon R Stingray,,2017,Used,Automatic,Hatchback,Petrol,650 cc,"123,000 km",6700000
+Suzuki,Wagon R FX,Fx,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"105,721 km",5650000
+Suzuki,Celerio,Vxi Auto,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","102,000 km",5075000
+Suzuki,Alto,,2016,Used,Automatic,Hatchback,Petrol,650 cc,"121,914 km",5475000
+Suzuki,Wagon R FZ,,2018,Used,Automatic,Hatchback,Petrol,650 cc,"113,000 km",6650000
+Suzuki,Wagon R Stingray,Wagon R Stingray,2014,Used,Automatic,Hatchback,Hybrid,650 cc,"88,000 km",5850000
+Suzuki,Wagon R FX,,2016,Used,Automatic,Hatchback,Hybrid,650 cc,"35,565 km",6000000
+Suzuki,Baleno,Suzuki,2019,Used,Automatic,Hatchback,Petrol,"1,000 cc","67,499 km",8050000
+Suzuki,Celerio,,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","85,329 km",5550000
+Suzuki,Spacia,,2017,Used,Automatic,,Petrol,650 cc,"84,000 km",7100000
+Suzuki,Celerio,2017,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","110,000 km",5475000
+Suzuki,Celerio,VXI Auto,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","55,000 km",5425000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","142,000 km",4850000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","79,000 km",5450000
+Suzuki,A-Star,,2012,Used,Automatic,Hatchback,Petrol,998 cc,"92,225 km",4350000
+Suzuki,Wagon R FZ,Safety,2017,Used,Automatic,Hatchback,Petrol,650 cc,"93,611 km",6495000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","65,000 km",5500000
+Suzuki,Wagon R FZ,,2016,Used,Automatic,Hatchback,Hybrid,650 cc,"85,000 km",5350000
+Suzuki,Celerio,ZXI Auto,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","115,000 km",5290000
+Suzuki,Wagon R Stingray,Turbo,2017,Used,Automatic,Hatchback,Petrol,660 cc,"131,500 km",7150000
+Suzuki,Swift,Style,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","125,000 km",5475000
+Suzuki,Wagon R FZ,Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"80,364 km",6790000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,660 cc,"82,400 km",6650000
+Suzuki,Celerio,Vxi Auto,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","71,000 km",5175000
+Suzuki,A-Star,,2013,Used,Automatic,Hatchback,Petrol,998 cc,"116,811 km",4790000
+Suzuki,Wagon R FZ,,2016,Used,Automatic,Hatchback,Petrol,660 cc,"114,000 km",5575000
+Suzuki,Wagon R FX,FX NON SAFETY,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"134,521 km",5850000
+Suzuki,Wagon R FX,2017,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"145,000 km",5650000
+Suzuki,Alto,,2018,Used,Automatic,Hatchback,Petrol,660 cc,"67,790 km",6000000
+Suzuki,Alto,,2008,Used,Automatic,Hatchback,Petrol,650 cc,"139,500 km",3940000
+Daihatsu,Mira,L safety,2023,Reconditioned,Automatic,Hatchback,Petrol,660 cc,"4,000 km",6390000
+Suzuki,Wagon R Stingray,2017,2017,Used,Automatic,Hatchback,Petrol,650 cc,"124,000 km",6724000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"73,557 km",7195000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","86,900 km",5550000
+Suzuki,XBee,Turbo Hybrid 4WD,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","121,000 km",8200000
+Suzuki,Swift,RS Hybrid Japan,2017,Used,Automatic,Hatchback,Hybrid,"1,300 cc","115,000 km",7900000
+Suzuki,Celerio,Suzuki,2014,Used,Automatic,Hatchback,Petrol,"1,000 cc","131,000 km",4990000
+Suzuki,Wagon R FX,Full Option,2016,Used,Automatic,Hatchback,Petrol,660 cc,"131,000 km",5550000
+Suzuki,Wagon R FZ,FZ,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"102,000 km",6200000
+Suzuki,Swift,ZC72S,2014,Used,Automatic,Hatchback,Petrol,"1,300 cc","169,999 km",6500000
+Suzuki,Celerio,Vxi Auto,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","94,000 km",4975000
+Suzuki,Celerio,VXI,2015,Used,Automatic,Hatchback,Petrol,998 cc,"144,999 km",4800000
+Suzuki,Celerio,VXI,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","89,800 km",5150000
+Suzuki,Swift,,2010,Used,Automatic,Hatchback,Petrol,"1,490 cc","107,701 km",5595000
+Suzuki,Wagon R FZ,,2017,Used,Automatic,Hatchback,Petrol,650 cc,"126,878 km",6775000
+Suzuki,Wagon R Stingray,Safety,2014,Used,Automatic,Hatchback,Hybrid,660 cc,"119,000 km",5800000
+Suzuki,Wagon R FX,,2018,Used,Automatic,Hatchback,Petrol,660 cc,"94,000 km",6700000
+Suzuki,Wagon R,,2024,Used,Automatic,Hatchback,Petrol,660 cc,"3,600 km",7030000
+Suzuki,A-Star,,2012,Used,Automatic,Hatchback,Petrol,"1,000 cc","134,575 km",4300000
+Suzuki,Wagon R FZ,,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"102,000 km",6100000
+Honda,Fit,GP1,2013,Used,Automatic,Hatchback,Hybrid,"1,300 cc","120,000 km",6975000
+Suzuki,Swift,Full Option,2017,Used,Automatic,Hatchback,Petrol,"1,300 cc","88,000 km",7395000
+Suzuki,Wagon R FZ,Premium,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"171,000 km",6300000
+Perodua,Axia,G Grade,2016,Used,Automatic,Hatchback,Petrol,998 cc,"105,350 km",5695000
+Suzuki,Wagon R FX,Hybrid 4way Cam 360,2025,Brand New,Automatic,Hatchback,Hybrid,660 cc,5 km,8200000
+Suzuki,Swift,2007,2007,Used,Automatic,Hatchback,Petrol,"1,300 cc","137,424 km",5175000
+Suzuki,Swift,RS,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","67,600 km",8275000
+Suzuki,Celerio,VXI,2016,Used,Automatic,Hatchback,Petrol,"1,000 cc","138,786 km",4800000
+Suzuki,Celerio,X,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","26,000 km",5825000
+Suzuki,Swift,DBA-ZC118,2007,Used,Automatic,Hatchback,Petrol,"1,320 cc","131,000 km",5600000
+Suzuki,Wagon R Stingray,,2015,Used,Automatic,Hatchback,Petrol,650 cc,"93,390 km",5700000
+Suzuki,Wagon R FZ,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"61,500 km",6650000
+Suzuki,Alto,Japan,2010,Used,Automatic,Hatchback,Petrol,650 cc,"128,500 km",4550000
+Suzuki,Celerio,ZXI,2017,Used,Automatic,Hatchback,Petrol,900 cc,"78,000 km",5725000
+Suzuki,Wagon R FX,Wagon R FX,2017,Used,Automatic,Hatchback,Petrol,650 cc,"102,000 km",5900000
+Suzuki,Swift,Rs,2017,Used,Automatic,Hatchback,Petrol,"1,200 cc","92,000 km",7750000
+Suzuki,Wagon R Stingray,,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"56,423 km",6990000
+Suzuki,Wagon R Stingray,,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"72,676 km",7095000
+Suzuki,Swift,Rs Sports Turbo,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","56,000 km",8850000
+Suzuki,Wagon R FZ,Wagon R FZ,2017,Used,Automatic,Hatchback,Hybrid,660 cc,"122,000 km",6450000
+Suzuki,Wagon R FX,Non Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"78,195 km",5975001
+Daihatsu,Taft,L900S,2024,Brand New,Automatic,Hatchback,Petrol,660 cc,0 km,8300000
+Suzuki,Wagon R,Custom Z - Upgraded,2024,Used,Automatic,Hatchback,Petrol,650 cc,"8,500 km",8700000
+Suzuki,Swift,RS Turbo,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","72,500 km",7750000
+Suzuki,Alto,Japan DHA-HA36S,2017,Used,Automatic,Hatchback,Petrol,650 cc,"83,000 km",6500000
+Suzuki,Hustler,1st Owner,2015,Used,Automatic,Hatchback,Petrol,650 cc,"96,883 km",5890000
+Suzuki,Swift,2017,2017,Used,Automatic,Hatchback,Petrol,"1,000 cc","109,000 km",8300000
+Suzuki,Wagon R,,2015,Used,Automatic,Hatchback,Hybrid,650 cc,"93,500 km",6050000
+Suzuki,Spacia,,2016,Used,Automatic,Hatchback,Hybrid,650 cc,"93,000 km",5690000
+Suzuki,Swift,Japan,2010,Used,Automatic,Hatchback,Petrol,"1,300 cc","130,800 km",5890000
+Suzuki,Alto,Suzuki,2017,Used,Automatic,Hatchback,Petrol,650 cc,"96,000 km",5600000
+Suzuki,Wagon R Stingray,J Style,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"86,000 km",5750000
+Suzuki,Wagon R FX,Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"65,118 km",5990000
+Suzuki,Wagon R FX,Safety,2017,Used,Automatic,Hatchback,Petrol,650 cc,"85,000 km",6275000
+Suzuki,Wagon R FX,Safety,2024,Used,Automatic,Hatchback,Petrol,650 cc,"6,505 km",7450000
+Suzuki,S-Cross,Suzuki,2018,Used,Automatic,Hatchback,Petrol,"1,000 cc","31,000 km",9950000
+Suzuki,Wagon R FZ,Safety,2018,Used,Automatic,Hatchback,Hybrid,650 cc,"76,305 km",6590000
+Suzuki,Spacia,,2016,Used,Automatic,Hatchback,Petrol,660 cc,"121,000 km",5600000
+Suzuki,Wagon R FZ,Safety Package,2014,Used,Automatic,Hatchback,Hybrid,650 cc,"153,000 km",5490000
+Suzuki,Celerio,,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","167,500 km",4600000
+Suzuki,Celerio,VXI,2015,Used,Automatic,Hatchback,Petrol,"1,000 cc","57,000 km",5800000
+Suzuki,Alto,Alto Hybrid S 2024,2024,Used,Automatic,Hatchback,Petrol,660 cc,"2,000 km",6950000
+Suzuki,Alto,L Grade,2024,Used,Automatic,Hatchback,Petrol,650 cc,"6,000 km",6695000
+Suzuki,Wagon R,Wagon R 2016,2016,Used,Automatic,Hatchback,Petrol,660 cc,"82,000 km",5700000
+Suzuki,Alto,,2016,Used,Automatic,Hatchback,Petrol,660 cc,"103,000 km",5250000
+Suzuki,Wagon R FX,Safety,2017,Used,Automatic,Hatchback,Hybrid,650 cc,"97,246 km",5825000
+Suzuki,Alto,L Grade,2018,Used,Automatic,Hatchback,Petrol,660 cc,"79,000 km",5400000
