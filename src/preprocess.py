@@ -11,8 +11,43 @@ def clean_and_preprocess():
     ]
     
     # Load and combine all CSVs
-    df = pd.concat((pd.read_csv(f) for f in files), ignore_index=True)
+    # We use error_bad_lines=False (or on_bad_lines='skip' in newer pandas) to skip broken rows
+    try:
+        df = pd.concat((pd.read_csv(f) for f in files), ignore_index=True)
+    except Exception as e:
+        print(f"Error loading files: {e}")
+        return
+
     print(f"Original Row Count: {len(df)}")
+
+    # ---------------------------------------------------------
+    # 1.5. FIX SPELLING MISTAKES (New Step!)
+    # ---------------------------------------------------------
+    print("Fixing spelling mistakes...")
+    
+    # A dictionary to map incorrect names to correct ones
+    # Format: 'Incorrect Name': 'Correct Name'
+    corrections = {
+        # Brands
+        'Susuki': 'Suzuki',
+        'Toyta': 'Toyota',
+        'Toyato': 'Toyota',
+        'Nisan': 'Nissan',
+        'Hunda': 'Honda',
+        
+        # Models (Common mistakes based on your data)
+        'Wagon R Fx': 'Wagon R FX',
+        'Wagon R Fz': 'Wagon R FZ',
+        'Wagonr': 'Wagon R',
+        'Vits': 'Vitz',
+        'Aqua G': 'Aqua',  # Simplify variants if needed
+        'Prius C': 'Aqua', # Aqua is sold as Prius C in some regions
+    }
+    
+    # Apply corrections to Brand and Model columns
+    # We use .replace() with the dictionary
+    df['brand'] = df['brand'].replace(corrections)
+    df['model'] = df['model'].replace(corrections)
 
     # ---------------------------------------------------------
     # 2. CLEAN NUMERICAL COLUMNS (Mileage & Engine Capacity)
@@ -26,16 +61,11 @@ def clean_and_preprocess():
     df['engine_capacity'] = pd.to_numeric(df['engine_capacity'], errors='coerce')
 
     # ---------------------------------------------------------
-    # 3. STANDARDIZE MODEL NAMES (Fix Spelling/Consistency)
+    # 3. STANDARDIZE MODEL NAMES
     # ---------------------------------------------------------
     # Convert to Title Case and strip whitespace
     df['model'] = df['model'].astype(str).str.strip().str.title()
 
-    # Manual Fixes for known inconsistencies found in your data
-    # Example: Merging "Roox Highway Star X" into "Roox" if desired, 
-    # but keeping distinct variants like "Wagon R Stingray" is usually better for price prediction.
-    # We will remove vague models like "Maruti" which is a brand name.
-    
     # ---------------------------------------------------------
     # 4. FILTER DOMAIN (Inconsistencies Check)
     # ---------------------------------------------------------
@@ -47,11 +77,9 @@ def clean_and_preprocess():
     df = df[df['price'] <= 10000000]
 
     # Filter Year (After 2005)
-    df = df[df['manufacture_year'] > 2005]
+    df = df[df['manufacture_year'] >= 2005]
 
     # Filter Body Type (Hatchback only)
-    # Note: Some non-hatchbacks are mislabeled as Hatchback in raw data.
-    # We also filter by a list of known non-hatchback models found in your files.
     non_hatchback_models = [
         'Vezel', 'Harrier', 'Crv', 'Xbee', 'Raize', 'Juke', 'Chr', 
         'Rush', 'S-Cross', 'Vitara', 'Sx4', 'Cross', 'Outlander', 
@@ -64,10 +92,9 @@ def clean_and_preprocess():
     df = df[df['fuel_type'].isin(['Petrol', 'Hybrid'])]
 
     # Filter Transmission (Automatic only)
-    # Even if data looks clean, this ensures consistency
     df = df[df['transmission'] == 'Automatic']
 
-    # Drop rows with missing values in critical columns
+    # Drop rows with missing values
     df = df.dropna(subset=['mileage', 'engine_capacity', 'price', 'model', 'fuel_type'])
     
     print(f"Row Count after Cleaning: {len(df)}")
@@ -75,29 +102,20 @@ def clean_and_preprocess():
     # ---------------------------------------------------------
     # 5. ONE-HOT ENCODING (Fuel Type)
     # ---------------------------------------------------------
-    # IS IT GOOD PRACTICE? 
-    # Yes. Since you only have 'Petrol' and 'Hybrid', this is standard.
-    # We use drop_first=True to create a single column (0 or 1), 
-    # which prevents multicollinearity (redundancy) and reduces overfitting.
-    
     df = pd.get_dummies(df, columns=['fuel_type'], drop_first=True)
-    # Result: 'fuel_type_Petrol' column (1=Petrol, 0=Hybrid)
 
     # ---------------------------------------------------------
     # 6. SAVE FINAL DATA
     # ---------------------------------------------------------
-    # Select only the columns needed for your target
-    # Note: 'brand' is not in your target list, but often useful to keep. 
-    # We'll keep it for reference, but the model training might ignore it if you strictly want the list provided.
     final_columns = ['mileage', 'engine_capacity', 'manufacture_year', 'model', 'fuel_type_Petrol', 'price']
-    
-    # Note: 'model' is still text. Machine Learning models need numbers.
-    # You will likely need to One-Hot Encode 'model' too during training, 
-    # or use a Label Encoder, depending on the algorithm you choose.
-    
     output_df = df[final_columns]
+    
+    # Ensure directory exists before saving
+    import os
+    os.makedirs("data/processed", exist_ok=True)
+    
     output_df.to_csv("data/processed/cleaned_car_data.csv", index=False)
-    print("Success! Processed data saved to 'data/processed/cleaned_car_data.csv'")
+    print("Success! Processed data saved.")
 
 if __name__ == "__main__":
     clean_and_preprocess()

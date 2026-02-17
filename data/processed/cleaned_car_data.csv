@@ -62,10 +62,12 @@ mileage,engine_capacity,manufacture_year,model,fuel_type_Petrol,price
 155000,660,2015,Hustler,False,5565000
 113000,660,2017,Wagon R Fz,False,6950000
 78000,1000,2019,Celerio,True,5790000
+172000,1320,2005,Swift,True,5290000
 82000,650,2017,Wagon R Fx,False,6350000
 86669,650,2018,Wagon R Fz,False,6790000
 90000,1300,2007,Swift,True,5400000
 128000,1000,2017,Baleno,True,7250000
+153000,1320,2005,Swift,True,5100000
 110009,1400,2014,Swift,True,6800000
 45000,650,2017,Wagon R Fx,True,6700000
 41325,660,2018,Wagon R Stingray,False,7100000
@@ -212,6 +214,7 @@ mileage,engine_capacity,manufacture_year,model,fuel_type_Petrol,price
 88000,660,2014,Wagon R Stingray,False,5675000
 126000,660,2017,Wagon R Fz,False,6200000
 142000,1300,2007,Swift,True,5300000
+173785,1320,2005,Swift,True,5250000
 59392,650,2018,Wagon R Stingray,False,6990002
 70000,1200,2017,Swift,True,8900000
 87645,650,2017,Wagon R Fz,False,6890000
@@ -611,6 +614,7 @@ mileage,engine_capacity,manufacture_year,model,fuel_type_Petrol,price
 37394,1000,2019,Vitz,True,8275000
 130000,1000,2017,Vitz,True,7500000
 111000,1500,2012,Aqua,False,7000000
+145000,1000,2005,Vitz,True,4950000
 3500,660,2025,Mira,True,6600000
 89000,650,2017,Mira,True,5275000
 79000,660,2016,Mira,True,5190000
