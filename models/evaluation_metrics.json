@@ -1,0 +1,8 @@
+{
+  "r2_score": 0.8937926816884395,
+  "mean_absolute_error": 285402.91068009567,
+  "root_mean_squared_error": 410992.74219649396,
+  "r2_percentage": 89.37926816884395,
+  "evaluation_date": "2026-02-19 21:18:13",
+  "test_samples": 153
+}
