@@ -1,0 +1,12 @@
+{
+  "model_type": "RandomForestRegressor",
+  "n_estimators": 100,
+  "max_depth": 15,
+  "min_samples_split": 5,
+  "random_state": 42,
+  "training_samples": 609,
+  "testing_samples": 153,
+  "n_features": 46,
+  "trained_date": "2026-02-19 21:18:13",
+  "scikit_learn_version": "1.8.0"
+}

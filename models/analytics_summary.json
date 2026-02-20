@@ -1,0 +1,47 @@
+{
+  "analysis_date": "2026-02-19 23:46:28",
+  "model_config": {
+    "n_estimators": 100,
+    "max_depth": 15,
+    "min_samples_split": 5,
+    "random_state": 42
+  },
+  "performance_metrics": {
+    "train_r2": 0.954429693491528,
+    "test_r2": 0.8937926816884395,
+    "train_mae": 183837.25135371715,
+    "test_mae": 285402.91068009567,
+    "train_rmse": 259391.26499509503,
+    "test_rmse": 410992.74219649396,
+    "cv_mean_r2": 0.7319397405322823,
+    "cv_std_r2": 0.11047310286662126
+  },
+  "overfitting_analysis": {
+    "r2_gap": 0.06063701180308845,
+    "r2_gap_percent": 6.353219332611501,
+    "mae_gap": 101565.65932637852,
+    "rmse_gap": 151601.47720139893
+  },
+  "top_5_features": [
+    {
+      "feature": "manufacture_year",
+      "importance": 0.36921836183296064
+    },
+    {
+      "feature": "engine_capacity",
+      "importance": 0.2813831663479745
+    },
+    {
+      "feature": "model_Celerio",
+      "importance": 0.10439234273553095
+    },
+    {
+      "feature": "mileage",
+      "importance": 0.07122779145184736
+    },
+    {
+      "feature": "model_Vitz",
+      "importance": 0.021391875162022757
+    }
+  ]
+}
